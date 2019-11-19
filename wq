@@ -1,0 +1,47 @@
+[33mcommit 9cfef0956021e82ee1307702c064a7091760b7cb[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: mytage[m[33m)[m
+Author: amare <amaretekle1@gmail.com>
+Date:   Mon Nov 18 22:23:34 2019 -0600
+
+    thsis is my change
+
+[1mdiff --git a/.ignore.js b/.ignore.js[m
+[1mnew file mode 100644[m
+[1mindex 0000000..9c5718c[m
+[1m--- /dev/null[m
+[1m+++ b/.ignore.js[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32msecret.text[m
+[1mdiff --git a/home.js b/home.js[m
+[1mnew file mode 100644[m
+[1mindex 0000000..430bc4b[m
+[1m--- /dev/null[m
+[1m+++ b/home.js[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mconsole.log("My Best")[m
+\ No newline at end of file[m
+[1mdiff --git a/my b/my[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/myindex.html b/myindex.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..7f0037d[m
+[1m--- /dev/null[m
+[1m+++ b/myindex.html[m
+[36m@@ -0,0 +1,13 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html lang="en">[m
+[32m+[m[32m<head>[m
+[32m+[m[32m    <meta charset="UTF-8">[m
+[32m+[m[32m    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[32m+[m[32m    <meta http-equiv="X-UA-Compatible" content="ie=edge">[m
+[32m+[m[32m    <title>Home work</title>[m
+[32m+[m[32m    <p>this is heading</p>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m[41m    [m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
+[1mdiff --git a/secret.text b/secret.text[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
